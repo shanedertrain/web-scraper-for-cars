@@ -1,0 +1,7 @@
+edmunds scraper.py
+debug.txt
+get products.py
+*.cpython
+*.pyc
+input/
+output/
